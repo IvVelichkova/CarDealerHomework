@@ -7,5 +7,7 @@
         public string Model { get; set; }
 
         public long TravelledDistance { get; set; }
+
+        public string CustomerName { get; set; }
     }
 }

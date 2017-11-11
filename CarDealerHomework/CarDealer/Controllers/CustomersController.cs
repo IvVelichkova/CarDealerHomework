@@ -1,5 +1,6 @@
 ﻿namespace CarDealer.Web.Controllers
 {
+    using Infrastructure.Extensions;
     using CarDealer.Services;
     using Models.Customers;
     using Microsoft.AspNetCore.Mvc;
@@ -30,10 +31,7 @@
         }
         [Route("{id}")]
         public IActionResult TotalSeals(int id)
-        {
-            var customer = this.customers.AllCarsByCustommer(id);
+        => this.ViewOrNotFound(this.customers.AllCarsByCustommer(id));
 
-            return View(customer);
-        }
     }
 }

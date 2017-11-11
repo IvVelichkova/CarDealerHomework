@@ -6,5 +6,12 @@
     public interface ISaleService
     {
         IEnumerable<SaleListModel> All();
+
+        SaleDetailsModel Details(int id);
+
+        IEnumerable<SalesDiscountedListModel> Discounted();
+
+        IEnumerable<SalesDiscountedListModel> Discounted(double percent);
+
     }
 }
