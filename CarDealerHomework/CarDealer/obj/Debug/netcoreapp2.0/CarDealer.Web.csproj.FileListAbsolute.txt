@@ -1,0 +1,16 @@
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.Web.deps.json
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.json
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.dev.json
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.Web.dll
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.Web.pdb
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.Data.dll
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.Services.dll
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.Data.pdb
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\bin\Debug\netcoreapp2.0\CarDealer.Services.pdb
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\CarDealer.Web.csprojResolveAssemblyReference.cache
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\CarDealer.Web.csproj.CoreCompileInputs.cache
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfoInputs.cache
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfo.cs
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\CarDealer.Web.dll
+C:\Users\Iv Velichkova\Desktop\CarDealerHomework\CarDealerHomework\CarDealer\obj\Debug\netcoreapp2.0\CarDealer.Web.pdb
