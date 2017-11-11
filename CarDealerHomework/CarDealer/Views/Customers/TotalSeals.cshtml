@@ -1,0 +1,17 @@
+﻿@model CustomerIdInfoModel
+@{
+    ViewData["Title"] = $"Customer {Model.Name}";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@{ var totalcars = Model.BoughtCars.Count();
+        }
+<p>
+    @totalcars @(totalcars != 1 ? "Cars" : "Car") Bought
+</p>
+<p>
+   $ @Model.TotalSpendMoney.ToString("F2")
+</p>
+
+
